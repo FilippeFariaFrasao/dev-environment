@@ -2,7 +2,7 @@
 
 Repositório para reconstruir meu setup de desenvolvimento no Windows/WSL. Aqui estão os guias e arquivos que uso sempre que formato a máquina.
 
-## Visão geral
+## Visão gerall
 - **WSL + Node/NPM + Codex**: instruções em `Codex.md`.
 - **Terminal moderno (Nushell + Starship + Zoxide)**: passo a passo em `Nushell.md`.
 - **Config do VS Code**: usar `settings.json` como base.
